@@ -20,13 +20,7 @@ I am an Information Engineering student and a passionate Self-Taught Software De
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haider-Development&show_icons=true&theme=tokyonight&count_private=true" alt="Haidar's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haider-Development&theme=tokyonight" alt="Haidar's GitHub Streak" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Haider-Development&show_icons=true&theme=tokyonight&count_private=true" alt="Haidar's GitHub Stats" />
 ---
 
 ### 📫 How to reach me
