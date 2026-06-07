@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Haider Tarraf 👋
 
-<!--
-**Haider-Development/Haider-Development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Engineering student and a passionate Self-Taught Software Developer dedicated to mastering software architecture and backend technologies. I love solving problems, building reusable tools, and continuously enhancing my engineering logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Core Stack & Tech Interests
+
+- Languages: C++, C#, SQL
+- Frameworks & Technologies: .NET, SQL Server
+- Focus Areas: Object-Oriented Programming (OOP), Data Structures, Algorithms, and Clean Code Architecture.
+
+---
+
+### 🛠️ Featured Project
+* 📂 [Cpp-Advanced-Utility-Libraries](https://github.com/Haider-Development/Cpp-Advanced-Utility-Libraries) - A comprehensive collection of advanced, reusable C++ OOP class libraries, featuring custom utilities for string manipulation, Date/Time arithmetic, Input validation, and core helper functions.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haider-Development&show_icons=true&theme=tokyonight&count_private=true" alt="Haidar's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haider-Development&theme=tokyonight" alt="Haidar's GitHub Streak" />
+</p>
+
+---
+
+### 📫 How to reach me
+* LinkedIn: [Your-LinkedIn-Profile-Link-Here] *(يمكنك استبداله برابط حسابك لاحقاً)*
+* Email: [Your-Email-Here]
