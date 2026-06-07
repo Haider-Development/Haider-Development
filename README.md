@@ -30,5 +30,4 @@ I am an Information Engineering student and a passionate Self-Taught Software De
 ---
 
 ### 📫 How to reach me
-* LinkedIn: [Your-LinkedIn-Profile-Link-Here] *(يمكنك استبداله برابط حسابك لاحقاً)*
-* Email: [Your-Email-Here]
+* Email: haidertarraf999@gmail.com
